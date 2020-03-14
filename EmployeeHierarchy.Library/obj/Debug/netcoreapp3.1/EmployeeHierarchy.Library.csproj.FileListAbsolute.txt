@@ -1,0 +1,11 @@
+D:\Projects\TechnoBrain\EmployeeHierarchy\EmployeeHierarchy.Library\bin\Debug\netcoreapp3.1\EmployeeHierarchy.Library.exe
+D:\Projects\TechnoBrain\EmployeeHierarchy\EmployeeHierarchy.Library\bin\Debug\netcoreapp3.1\EmployeeHierarchy.Library.deps.json
+D:\Projects\TechnoBrain\EmployeeHierarchy\EmployeeHierarchy.Library\bin\Debug\netcoreapp3.1\EmployeeHierarchy.Library.runtimeconfig.json
+D:\Projects\TechnoBrain\EmployeeHierarchy\EmployeeHierarchy.Library\bin\Debug\netcoreapp3.1\EmployeeHierarchy.Library.runtimeconfig.dev.json
+D:\Projects\TechnoBrain\EmployeeHierarchy\EmployeeHierarchy.Library\bin\Debug\netcoreapp3.1\EmployeeHierarchy.Library.dll
+D:\Projects\TechnoBrain\EmployeeHierarchy\EmployeeHierarchy.Library\bin\Debug\netcoreapp3.1\EmployeeHierarchy.Library.pdb
+D:\Projects\TechnoBrain\EmployeeHierarchy\EmployeeHierarchy.Library\obj\Debug\netcoreapp3.1\EmployeeHierarchy.Library.csprojAssemblyReference.cache
+D:\Projects\TechnoBrain\EmployeeHierarchy\EmployeeHierarchy.Library\obj\Debug\netcoreapp3.1\EmployeeHierarchy.Library.AssemblyInfoInputs.cache
+D:\Projects\TechnoBrain\EmployeeHierarchy\EmployeeHierarchy.Library\obj\Debug\netcoreapp3.1\EmployeeHierarchy.Library.AssemblyInfo.cs
+D:\Projects\TechnoBrain\EmployeeHierarchy\EmployeeHierarchy.Library\obj\Debug\netcoreapp3.1\EmployeeHierarchy.Library.dll
+D:\Projects\TechnoBrain\EmployeeHierarchy\EmployeeHierarchy.Library\obj\Debug\netcoreapp3.1\EmployeeHierarchy.Library.pdb

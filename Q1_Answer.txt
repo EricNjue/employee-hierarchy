@@ -1,0 +1,2 @@
+SELECT CarMaker, CarModel, SUM(SalePriceInDollar) AS TotalSalePrice FROM [TechnoBrain].[dbo].[CarSales] 
+WHERE SaleDate <= DATEADD(day, -30, GETDATE()) GROUP BY CarModel, CarMaker;
